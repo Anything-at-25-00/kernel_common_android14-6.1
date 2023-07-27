@@ -4916,6 +4916,7 @@
 			why a new grace period has not yet started.
 
 	rcutree.enable_rcu_lazy= [KNL]
+	rcutree.android_enable_rcu_lazy= [KNL]
 			To save power, batch RCU callbacks and flush after
 			delay, memory pressure or callback list growing too
 			big.
