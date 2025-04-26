@@ -415,6 +415,7 @@
   device_create_with_groups
   device_del
   device_destroy
+  device_find_any_child
   device_find_child
   device_find_child_by_name
   device_for_each_child
@@ -1726,6 +1727,8 @@
   nfnl_lock
   nfnl_unlock
   nf_register_net_hooks
+  nf_sk_lookup_slow_v4
+  nf_sk_lookup_slow_v6
   nf_unregister_net_hooks
   nla_find
   nla_memcpy
