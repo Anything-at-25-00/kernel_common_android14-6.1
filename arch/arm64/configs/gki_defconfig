@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="-Castorice-v1.0-shirayuki-zenin"
+CONFIG_LOCALVERSION="-Castorice-BETA-2.0-shirayuki-zenin"
 # CASS
 CONFIG_SCHED_CASS=y
 # CONFIG_LOCALVERSION_AUTO is not set
