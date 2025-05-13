@@ -16,7 +16,7 @@
 
 #define BOEFFLA_WL_BLOCKER_VERSION	"1.1.0"
 
-#define LIST_WL_DEFAULT			"IPA_WS;IPA_CLIENT_APPS_WAN_COAL_CONS;IPA_CLIENT_APPS_WAN_LOW_LAT_CONS;IPA_CLIENT_APPS_LAN_CONS;rmnet_ipa%d;rmnet_ctl;RMNET_SHS;grip_wake_lock;wlan_scan_wake;wlan_pm_wake;nfc_wake_lock;WLAN timeout;WLAN Timer;ccmni_md1;wlan;WLAN interrupt;wlan_rx_wake;tcpc_detach_wake_lock;ttyCMIPC1;ccci_wifi_proxy;md_wakelock;WLAN hif_thread;ccci_fs;[timerfd];elliptic_wake_source;WLAN main_thread;bms suspend wakelock;bt_drv_io"
+#define LIST_WL_DEFAULT			"IPA_WS;IPA_CLIENT_APPS_WAN_COAL_CONS;IPA_CLIENT_APPS_WAN_LOW_LAT_CONS;IPA_CLIENT_APPS_LAN_CONS;rmnet_ipa%d;rmnet_ctl;RMNET_SHS;grip_wake_lock;wlan_scan_wake;wlan_pm_wake;nfc_wake_lock"
 
 #define LENGTH_LIST_WL			1024
 #define LENGTH_LIST_WL_DEFAULT		1024
